@@ -7,7 +7,7 @@
 
 ##### CLI
 
-```
+```sh
 pip install mssql-cli
 
 mssql-cli -S localhost,1433 -U SA
