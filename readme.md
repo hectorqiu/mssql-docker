@@ -1,6 +1,6 @@
-### mssql-mongo
+### mssql-docker
 
-使用 docker 部署 sql-server，用于开发测试，不建议生存环境使用。
+使用 docker 部署 sql-server，用于开发测试，不建议生产环境使用。
 
 ### usage
 
@@ -24,7 +24,8 @@ mssql-cli -S localhost,1433 -U SA
 
 ##### GUI
 
+- navicat for sqlserver
 - tablePlus
-- navicat
+
 
 
