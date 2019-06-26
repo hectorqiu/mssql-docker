@@ -8,7 +8,7 @@
 git clone git@github.com:hectorqiu/mssql-docker.git
 
 cd path/to/mssql-docker
-docker-compose build
+docker-compose up -d
 docker-compose start
 ```
 
